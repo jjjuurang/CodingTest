@@ -1,4 +1,5 @@
 # CodingTest
+## 공부 할 링크
 https://www.w3schools.com/sql/sql_exists.asp
 https://www.w3schools.com/tags/ref_byfunc.asp
 https://www.w3schools.com/jquery/default.asp
